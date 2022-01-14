@@ -16,7 +16,7 @@ module.exports = {
           `https://ropsten.infura.io/v3/${process.env.ROPSTEN_INFURA_API_KEY}`
         )
       },
-      network_id: '3',
+      network_id: '3',sad
     },
   },
   compilers: {
